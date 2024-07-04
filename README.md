@@ -200,13 +200,13 @@ Export.image.toDrive({
 
 ![image](https://github.com/KonlavachMengsuwan/-Land-Use-Change-Detection-in-Brandenburg/assets/52453368/87837910-b101-4600-be0a-4319cb5e632d)
 
-Water 2015
+## Water 2015
 ![image](https://github.com/KonlavachMengsuwan/-Land-Use-Change-Detection-in-Brandenburg/assets/52453368/9bf46660-afb9-44a2-98ed-f7b41cfc7a94)
 
-Water 2023
+## Water 2023
 ![image](https://github.com/KonlavachMengsuwan/-Land-Use-Change-Detection-in-Brandenburg/assets/52453368/27be27d1-49e0-45dd-849e-f32a04816038)
 
-Land Use Change Detection in Brandenburg
+## Land Use Change Detection in Brandenburg
 ![image](https://github.com/KonlavachMengsuwan/-Land-Use-Change-Detection-in-Brandenburg/assets/52453368/9277d927-a332-4ffb-b5f7-568e0863e4bf)
 
 https://code.earthengine.google.com/39543b84e71e1e3f1018e1a412f3458e
